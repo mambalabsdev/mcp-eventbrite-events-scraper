@@ -1,0 +1,33 @@
+{
+  "name": "mcp-eventbrite-events-scraper",
+  "displayName": "Eventbrite Events Scraper",
+  "version": "1.0.0",
+  "description": "MCP server for Eventbrite Events Scraper. Eventbrite events, organizers, and ticket prices by location, keyword, or URL. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-eventbrite-events-scraper",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "eventbrite",
+    "eventbrite-scraper",
+    "events",
+    "event-data",
+    "organizers",
+    "ticket-prices"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "eventbrite",
+    "eventbrite-scraper",
+    "events",
+    "event-data",
+    "organizers",
+    "ticket-prices"
+  ],
+  "mcpServers": ".mcp.json"
+}
