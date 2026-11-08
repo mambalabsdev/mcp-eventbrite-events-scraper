@@ -98,7 +98,7 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 |---|---|---|---|---|
 | `event-detail-row`, one event with its event page read (organizer and price) | $0.003 | $0.00285 | $0.0027 | $0.00255 |
 | `event-row`, one event from a search page only (read_details false) | $0.0015 | $0.001425 | $0.00135 | $0.001275 |
-| `apify-actor-start`, per run start | $0.008 | $0.008 | $0.008 | $0.008 |
+| `apify-actor-start`, per run start | $0.026 | $0.026 | $0.026 | $0.026 |
 
 Refused pages, empty searches, missing events, and refused input are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
 

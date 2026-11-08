@@ -211,7 +211,7 @@ server.registerTool(
   {
     title: "Search Eventbrite events",
     description:
-      "Search Eventbrite events by location and keyword, or read events by URL. Returns one flat row per event with dates, venue, category, organizer, and ticket price range. Refused pages and missing events are free rows. Costs 0.003 USD per event with its page read, 0.0015 USD per event from search only, plus 0.008 USD per run start.",
+      "Search Eventbrite events by location and keyword, or read events by URL. Returns one flat row per event with dates, venue, category, organizer, and ticket price range. Refused pages and missing events are free rows. Costs 0.003 USD per event with its page read, 0.0015 USD per event from search only, plus 0.026 USD per run start.",
     annotations: {
       title: "Search Eventbrite events",
       readOnlyHint: true,
