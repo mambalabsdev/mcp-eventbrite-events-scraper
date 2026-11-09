@@ -98,9 +98,10 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 |---|---|---|---|---|
 | `event-detail-row`, one event with its event page read (organizer and price) | $0.003 | $0.00285 | $0.0027 | $0.00255 |
 | `event-row`, one event from a search page only (read_details false) | $0.0015 | $0.001425 | $0.00135 | $0.001275 |
+| `search`, one location and keyword search that Eventbrite answered, with or without events | $0.007 | $0.00665 | $0.0063 | $0.00595 |
 | `apify-actor-start`, per run start | $0.026 | $0.026 | $0.026 | $0.026 |
 
-Refused pages, empty searches, missing events, and refused input are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
+Refused pages, missing events, and refused input are free. A search Eventbrite answers is charged once, with or without events. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
 
 ## Full actor documentation
 
