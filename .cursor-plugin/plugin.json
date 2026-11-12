@@ -1,7 +1,7 @@
 {
   "name": "mcp-eventbrite-events-scraper",
   "displayName": "Eventbrite Events Scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Eventbrite Events Scraper. Eventbrite events, organizers, and ticket prices by location, keyword, or URL. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs",
